@@ -1,0 +1,84 @@
+h1{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(25, 27, 27);
+    color:white;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding:10px;
+    /* margin: 50px; */
+}
+a:hover{
+    background-color: #696666;
+}
+.nav{
+    text-decoration-style: none;
+    text-align: center;
+    background-color: rgb(33, 36, 36);
+    color:white;
+    font-size: large;
+    padding: 10px;
+    margin-bottom: 20px;
+}   
+.body{
+    background-image: url("images/bookShelf.jpg");
+}
+h4{
+    text-align: center;
+}
+.display{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+li{
+    text-align  : none;
+}
+.bookinfo{
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    background-color: rgb(33, 36, 36);
+    color:white;
+    margin: 10px;
+    border-radius: 6px;
+    padding-top: 20px;
+}
+.bookinfo:hover{
+    background-color: #696666;
+    box-shadow: 20px;
+}
+img{
+    border-radius:6px;
+}
+.authorName{
+    color:DodgerBlue;
+}
+.form{
+    display: flex;
+   text-align: center;
+   justify-content: center;
+    align-items: center;
+    display :flex;
+    flex-direction: column;
+    padding: 30px;
+    left: 50%;
+    background-color: #8d6464;
+
+}
+.formInLine{
+    display: flex;
+align-items: center;
+justify-content: center;
+}
+.submitButton{
+    border: 5px;
+    size: 50px;
+}
+.submitButton:hover{
+    color: dodgerblue;
+
+}
