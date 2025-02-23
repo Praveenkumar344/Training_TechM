@@ -10,7 +10,7 @@ public class test {
 
         String url = "jdbc:mysql://localhost:3306/companies";
         String userName = "root";
-        String password = "Kanthathiru@344";
+        String password = "praveen123";
         Connection connection = DriverManager.getConnection(url, userName, password);
         Statement statement = connection.createStatement();
         while (run) {
