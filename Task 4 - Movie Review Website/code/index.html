@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title> Movie Review Website</title>
+        <link rel="icon" href="asset/film.png"  type="image/png"/>
+        <link rel="stylesheet" href="styles/style.css" />
+    </head>
+    <body>
+        <header>
+            <div class="title">
+                <img style="padding-right:10px" src="asset/filmAnimation.gif" alt="Film Image">
+                <h1 style="color:black"> Movie Reviews</h1>
+            </div>
+            <nav class="navigation">
+                
+                     <a class="navButton" href="index.html"> Home </a>
+                     <a class="navButton" href="listMovies.html"> Movies </a>
+                     <a class="navButton" href="search.html"> Search </a>
+                     <a class="navButton" href="About.html"> About </a>
+            </nav>
+        </header>
+
+        <div class="movie_list" >
+            <div style="display: flex ;flex-direction: column;align-items: center;">
+                <h3 style="font-size:x-large;padding-top: 10px;">Top Rated Movies</h3>
+                <div class="topMovies"></div>
+                <div class="divider"></div>
+
+            </div>
+            <div style="display: flex ;flex-direction: column;align-items: center;">
+                <h3 style="font-size:x-large;padding-top: 10px;">Just Reviewed</h3>
+                <div class="justReviewed"></div>
+                <div class="divider"></div>
+
+            </div>
+        </div>
+
+        <footer class="footer">
+            <p> &copy; All Reviews are user-generated reviews.</p>
+        </footer>
+        <script src="scripts/script.js"></script>
+    </body> 
+</html>

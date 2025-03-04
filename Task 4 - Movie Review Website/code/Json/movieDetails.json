@@ -1,0 +1,126 @@
+{
+    "movies":[
+        {
+            "id":1,
+            "title":"Interstellar",
+            "year":2014,
+            "genre":"Sci-fi/Adventure",
+            "summary":"With humanity teetering on the brink of extinction, a group of astronauts travels through a wormhole in search of another inhabitable planet.",
+            "src":"asset/movieImg/Interstellar.jpeg"
+        },
+        {
+            "id":2,
+            "title":"Life of Pi",
+            "year":2012,
+            "genre":"Adventure/survival/Fantasy",
+            "summary":"A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.",
+            "src":"asset/movieImg/LifeOfPi.jpg"
+        },
+        {
+            "id":3,
+            "title":"Passengers",
+            "year":2016,
+            "genre":"Sci-fi/Romance",
+             "summary":"A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
+             "src":"asset/movieImg/Passengers.jpeg"
+        },
+        {
+            "id":4,
+            "title":"I Want to Eat Your Pancreas",
+            "year":2018,
+            "genre":"Romance/Drama",
+            "summary":"A high school student discovers one of his classmates, Sakura Yamauchi, is suffering from a terminal illness. This secret brings the two together, as she lives out her final moments.",
+            "src":"asset/movieImg/iWantTOEatYourPancreas.jpg"
+        }, 
+        {
+            "id":5,
+            "title":"The Dark Knight",
+            "year":2008,
+            "genre":"Action",
+            "summary":"When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+            "src":"asset/movieImg/TheDarkKnight.jpeg"
+        }, {
+            "id":6,
+            "title":"The Shawshank Redemption",
+            "year":1994,
+            "genre":"Thriller/Crime",
+            "summary":"Convicted of murdering his wife and her lover, a quiet banker tries to survive prison by clinging to hope — and befriending a fellow lifer named Red.",
+            "src":"asset/movieImg/TheShawshankRedemption.webp"
+        },
+         {
+            "id":7,
+            "title":"The Matrix",
+            "year":1999,
+            "genre":"Action/Sci-fi ",
+            "summary":"depicts a dystopian future in which humanity is unknowingly trapped inside the Matrix, a simulated reality created by intelligent machines. Believing computer hacker Neo to be 'the One' prophesied to defeat them, Morpheus recruits him into a rebellion against the machines. ",
+            "src":"asset/movieImg/The_Matrix_Poster.jpg"
+        },
+        
+       {
+          "id":8,
+          "title":"Moonfall",
+          "year":2021,
+          "genre":"Action/Sci-fi ",
+          "summary":"The world stands on the brink of annihilation when a mysterious force knocks the moon from its orbit and sends it hurtling toward a collision course with Earth. With only weeks before impact, NASA executive Jocinda 'Jo' Fowler teams up with a man from her past and a conspiracy theorist for an impossible mission into space to save humanity.",
+          "src":"asset/movieImg/moonFall.jpg"
+      },
+      {
+         "id": 9,
+         "title":"Prometheus",
+         "year":2012,
+         "genre":"Sci-fi/Horror ",
+         "summary":"A team of scientists and explorers travel to a distant moon (LV-223) after discovering ancient star maps pointing to its location. They seek the Engineers, an advanced alien race believed to have created humanity.However, upon arrival, they find a deadly bio-weapon (black goo) left behind by the Engineers, which starts infecting them, leading to horrifying mutations and chaos.",
+         "src":"asset/movieImg/Prometheus.jpeg"
+     },
+     {
+        "id": 10,
+        "title": "Harry Potter ",
+        "year": 2001,
+        "genre": "Fantasy/Adventure",
+        "summary": "A young boy discovers he is a wizard and attends Hogwarts School, where he makes new friends and faces the dark legacy of Lord Voldemort.",
+        "src": "asset/movieImg/HarryPotter1.webp"
+    },
+    {
+        "id": 11,
+        "title": "Titanic",
+        "year": 1997,
+        "genre": "Romance/Drama",
+        "summary": "A young aristocrat falls in love with a kind but poor artist aboard the ill-fated R.M.S. Titanic. Their love story unfolds as disaster strikes the ship.",
+        "src": "asset/movieImg/Titanic.jpg"
+    },
+    {
+        "id": 12,
+        "title": "The Garden of Words",
+        "year": 2013,
+        "genre": "Romance/Drama",
+        "summary": "A high school student aspiring to be a shoemaker forms an unexpected bond with an older woman he meets in a rainy garden.",
+        "src": "asset/movieImg/TheGardenOfWords.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Grave of the Fireflies",
+        "year": 1988,
+        "genre": "War/Drama",
+        "summary": "A heartbreaking story of two orphaned siblings struggling to survive in post-World War II Japan.",
+        "src": "asset/movieImg/GraveOfTheFireflies.jpg"
+    },
+    {
+        "id": 14,
+        "title": "The Godfather",
+        "year": 1972,
+        "genre": "Crime/Drama",
+        "summary": "The aging patriarch of an organized crime dynasty transfers control of his empire to his reluctant son, leading to power struggles and betrayals.",
+        "src": "asset/movieImg/TheGodfather.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Inception",
+        "year": 2010,
+        "genre": "Sci-fi/Thriller",
+        "summary": "A thief who enters the dreams of others to steal secrets is given a seemingly impossible task: to implant an idea into someone's mind. As he navigates the dream world, reality and illusion blur.",
+        "src": "asset/movieImg/Inception.webp"
+    }
+    
+    ],
+    "reviews":["Amazing movie with great visuals and a compelling story.","A must-watch movie for all sci-fi fans.","A beautiful story of survival and friendship.","A heartwarming tale of love and loss.","A gripping crime thriller with a powerful message.","A classic movie that stands the test of time."]
+}
