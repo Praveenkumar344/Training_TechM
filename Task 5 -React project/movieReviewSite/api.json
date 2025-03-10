@@ -1,0 +1,67 @@
+{
+  "movies": [
+    {
+      "id": "3247",
+      "title": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "release_year": 1994,
+      "genre": "Crime",
+      "rating": "8.4",
+      "rating_count": 102
+    },
+    {
+      "id": "3248",
+      "title": "The Lord of the Rings: The Return of the King",
+      "director": "Peter Jackson",
+      "release_year": 2003,
+      "genre": "Fantasy",
+      "rating": 8.9,
+      "rating_count": 150
+    },
+    {
+      "id": "3249",
+      "title": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "release_year": 1994,
+      "genre": "Drama",
+      "rating": 8.8,
+      "rating_count": 200
+    },
+    {
+      "id": "3250",
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "release_year": 2010,
+      "genre": "Sci-Fi",
+      "rating": 8.7,
+      "rating_count": 250
+    },
+    {
+      "id": "3251",
+      "title": "Fight Club",
+      "director": "David Fincher",
+      "release_year": 1999,
+      "genre": "Drama",
+      "rating": 8.6,
+      "rating_count": 180
+    },
+    {
+      "id": "3252",
+      "title": "The Matrix",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "release_year": 1999,
+      "genre": "Sci-Fi",
+      "rating": 8.7,
+      "rating_count": 220
+    },
+    {
+      "id": "3254",
+      "title": "The Silence of the Lambs",
+      "director": "Jonathan Demme",
+      "release_year": 1991,
+      "genre": "Thriller",
+      "rating": 8.6,
+      "rating_count": 190
+    }
+  ]
+}
