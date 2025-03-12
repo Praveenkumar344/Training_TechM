@@ -1,0 +1,246 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "price": 8.99,
+      "size": "Medium",
+      "shop": "Pizza Palace",
+      "image": "assets/images/margherita.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cheeseburger",
+      "price": 6.99,
+      "size": "Single",
+      "shop": "Burger Barn",
+      "image": "assets/images/cheeseburger.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pasta Alfredo",
+      "price": 10.99,
+      "size": "Regular",
+      "shop": "Pasta Place",
+      "image": "assets/images/pasta-alfredo.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Caesar Salad",
+      "price": 5.99,
+      "size": "Small",
+      "shop": "Salad Stop",
+      "image": "assets/images/caesar-salad.jpg"
+    },
+    {
+      "id": 5,
+      "name": "French Fries",
+      "price": 3.99,
+      "size": "Large",
+      "shop": "Fry Factory",
+      "image": "assets/images/french-fries.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Chicken Wings",
+      "price": 7.99,
+      "size": "12 Pieces",
+      "shop": "Wing World",
+      "image": "assets/images/chicken-wings.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Veggie Burger",
+      "price": 5.99,
+      "size": "Single",
+      "shop": "Burger Barn",
+      "image": "assets/images/veggie-burger.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Cake",
+      "price": 4.99,
+      "size": "Slice",
+      "shop": "Cake Corner",
+      "image": "assets/images/chocolate-cake.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Ice Cream Sundae",
+      "price": 3.99,
+      "size": "Regular",
+      "shop": "Ice Cream Island",
+      "image": "assets/images/ice-cream-sundae.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Grilled Cheese Sandwich",
+      "price": 4.99,
+      "size": "Single",
+      "shop": "Sandwich Shack",
+      "image": "assets/images/grilled-cheese.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Taco",
+      "price": 2.99,
+      "size": "Single",
+      "shop": "Taco Town",
+      "image": "assets/images/taco.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Sushi Roll",
+      "price": 8.99,
+      "size": "8 Pieces",
+      "shop": "Sushi Spot",
+      "image": "assets/images/sushi-roll.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Pancakes",
+      "price": 5.99,
+      "size": "Stack",
+      "shop": "Breakfast Bistro",
+      "image": "assets/images/pancakes.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Spaghetti Bolognese",
+      "price": 9.99,
+      "size": "Regular",
+      "shop": "Pasta Place",
+      "image": "assets/images/spaghetti-bolognese.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Fish and Chips",
+      "price": 11.99,
+      "size": "Large",
+      "shop": "Seafood Shack",
+      "image": "assets/images/fish-and-chips.jpeg"
+    },
+    {
+      "id": 16,
+      "name": "BBQ Ribs",
+      "price": 14.99,
+      "size": "Full Rack",
+      "shop": "BBQ Barn",
+      "image": "assets/images/bbq-ribs.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Greek Salad",
+      "price": 6.99,
+      "size": "Regular",
+      "shop": "Salad Stop",
+      "image": "assets/images/greek-salad.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Mango Smoothie",
+      "price": 4.99,
+      "size": "Large",
+      "shop": "Smoothie Shack",
+      "image": "assets/images/mango-smoothie.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Chicken Tacos",
+      "price": 7.99,
+      "size": "3 Pieces",
+      "shop": "Taco Town",
+      "image": "assets/images/chicken-tacos.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Apple Pie",
+      "price": 3.99,
+      "size": "Slice",
+      "shop": "Pie Place",
+      "image": "assets/images/apple-pie.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "price": 8.99,
+      "size": "Medium",
+      "shop": "Pizza Palace",
+      "image": "assets/images/margherita.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cheeseburger",
+      "price": 6.99,
+      "size": "Single",
+      "shop": "Burger Barn",
+      "image": "assets/images/cheeseburger.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Caesar Salad",
+      "price": 5.99,
+      "size": "Small",
+      "shop": "Salad Stop",
+      "image": "assets/images/caesar-salad.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "price": 8.99,
+      "size": "Medium",
+      "shop": "Pizza Palace",
+      "image": "assets/images/margherita.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "price": 8.99,
+      "size": "Medium",
+      "shop": "Pizza Palace",
+      "image": "assets/images/margherita.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "price": 8.99,
+      "size": "Medium",
+      "shop": "Pizza Palace",
+      "image": "assets/images/margherita.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cheeseburger",
+      "price": 6.99,
+      "size": "Single",
+      "shop": "Burger Barn",
+      "image": "assets/images/cheeseburger.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Caesar Salad",
+      "price": 5.99,
+      "size": "Small",
+      "shop": "Salad Stop",
+      "image": "assets/images/caesar-salad.jpg"
+    },
+    {
+      "id": 5,
+      "name": "French Fries",
+      "price": 3.99,
+      "size": "Large",
+      "shop": "Fry Factory",
+      "image": "assets/images/french-fries.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Cake",
+      "price": 4.99,
+      "size": "Slice",
+      "shop": "Cake Corner",
+      "image": "assets/images/chocolate-cake.jpg"
+    }
+  ]
+}

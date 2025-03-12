@@ -1,0 +1,48 @@
+.error {
+    color: red;
+    font-size: 12px;
+  }
+  input {
+    display: block;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+    max-width: 300px;
+  }
+  button {
+    background-color: blue;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    cursor: pointer;
+  }
+  button:disabled {
+    background-color: grey;
+    cursor: not-allowed;
+  }
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:20px;
+    
+}
+.field{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:20px;
+    width:300px;
+    font-size: large;
+}
+.field input{
+    border-radius: 20px;
+    box-shadow: 0px 0px 3px;
+}
+.button{
+    width:200px
+}
+.button:hover{
+    background-color: #53d53c;
+    cursor: pointer;
+}

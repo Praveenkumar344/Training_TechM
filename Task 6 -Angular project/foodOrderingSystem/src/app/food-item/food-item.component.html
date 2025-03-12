@@ -1,0 +1,13 @@
+<div class="food-item">
+    <img [src]="item?.image" class="image" alt="Food Image"/>
+    <div class="right">
+        <div>
+            <h3>Name : {{ item.name }}</h3>
+            <p>Price :  ₹ {{ (item.price*82 ).toFixed(2)}}</p>
+            <p>Size : {{ item.size }}</p>
+            <p>Shop : {{ item.shop }}</p>
+        </div>
+        
+    <button (click)="addItemToCart()">Add to Cart</button>
+</div>
+  </div>

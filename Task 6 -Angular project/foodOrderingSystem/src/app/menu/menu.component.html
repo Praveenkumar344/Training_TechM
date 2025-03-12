@@ -1,0 +1,11 @@
+<div>
+    <h1>Menu</h1>
+    <h3>Filter by price : </h3>
+  <label>Min Price:</label>
+  <input style="margin-right: 10px;"type="number" [(ngModel)]="minPrice" placeholder="Min Price" />
+
+  <label>Max Price:</label>
+  <input type="number" [(ngModel)]="maxPrice" placeholder="Max Price" />
+
+    <app-food-item class="display" *ngFor="let item of menuItems" [item]="item" (addItem)="addToCart($event)"></app-food-item>
+  </div>

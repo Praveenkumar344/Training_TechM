@@ -1,0 +1,28 @@
+<form class="form " #orderForm="ngForm" (ngSubmit)="placeOrder(orderForm)">
+    <div class="field">
+      <label>Name:</label>
+      <input type="text" name="name" [(ngModel)]="order.name" required #name="ngModel" />
+      <div *ngIf="name.invalid && name.touched" class="error">Name is required.</div>
+    </div>
+  
+    <div class="field">
+      <label>Address:</label>
+      <input type="text" name="address" [(ngModel)]="order.address" required #address="ngModel" />
+      <div *ngIf="address.invalid && address.touched" class="error">Address is required.</div>
+    </div>
+  
+    <div class="field">
+      <label>Phone:</label>
+      <input type="tel" name="phone" [(ngModel)]="order.phone" required pattern="[0-9]{10}" #phone="ngModel" />
+      <div *ngIf="phone.invalid && phone.touched" class="error">Enter a valid 10-digit phone number.</div>
+    </div>
+  
+    <div class="field">
+      <label>Email:</label>
+      <input type="email" name="email" [(ngModel)]="order.email" required #email="ngModel" />
+      <div *ngIf="email.invalid && email.touched" class="error">Enter a valid email.</div>
+    </div>
+  
+    <button class="button" type="submit" [disabled]="orderForm.invalid">Place Order</button>
+  </form>
+  
